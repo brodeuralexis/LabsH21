@@ -8,17 +8,13 @@ Le travail à réaliser dans ce laboratoire vise à explorer :
 -	Les mauvaises odeurs (ou code smells en anglais) qui représentent des symptômes de problèmes de conception ou d’implémentation. Ces mauvaises odeurs nous donnent des indices sur où et comment refactoriser. Lors de la planification des activités de refactoring, gardez à l'esprit le patron « Keep it Simple » (livre Object-Oriented Reengineering Patterns OORP, p.37), et « Most valuable first » (OORP, p. 29).
 -	Les opérations de refactoring à appliquer : consulter les catalogues de refactoring, se familiariser avec le refactoring via les IDEs et les outils avancés.
 
-##2. Matériel et outils à utiliser
+## 2. Matériel et outils à utiliser
 
 ### Outils de base
 -	[IntelliJ IDEA](https://www.jetbrains.com/idea/)  (vous pouvez utiliser Eclipse, à votre discrétion, mais cela peut nécessiter des adaptations pour le projet que nous utilisons pendant les sessions de laboratoire)
-
 -	Le projet [JPacman](https://github.com/hscrocha/jpacman).
-
 -	[CodeScene](https://codescene.io/) : pas d’installation requise, mais il nécessite un compte GitHub. L'intégration de cet outil avec GitHub lui permet de visualiser vos répertoires de code. La partie dette technique (Technical Debt) affiche les cibles de refactoring. Les codes biomarqueurs (Code Biomarkers) montrent une analyse plus détaillée des odeurs (code smells) mais il n'est disponible que pour les abonnements payants.
-
 -	[SonarQube](https://www.sonarqube.org/) : un outil/plateforme d’inspection continue de la qualité du code.
-
 -	Compte [GitHub](https://github.com/)
 
 
