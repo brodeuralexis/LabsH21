@@ -1,1 +1,2 @@
-# LabsH21
+# Cours LOG350 : Réingénierie du logiciel
+
