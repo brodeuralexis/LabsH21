@@ -91,7 +91,7 @@ Maintenant, vous pouvez exécuter SonarQube via la commande :
 
 
 
-Si vous rencontrez des problèmes, veuillez consulter la [documentation SonarQube](https://docs.sonarqube.org/latest/setup/get-started-2-minutes/)). Si tout s'est bien déroulé, alors vous devriez voir dans votre terminal un message comme *"<date> INFO yyy [ xxxx ] SonarQube is up"*. Ouvrez maintenant votre navigateur et saisissez l'adresse suivante dessous: 
+Si vous rencontrez des problèmes, veuillez consulter la [documentation SonarQube](https://docs.sonarqube.org/latest/setup/get-started-2-minutes/)). Si tout s'est bien déroulé, alors vous devriez voir dans votre terminal un message comme ``<date> INFO yyy [ xxxx ] SonarQube is up``. Ouvrez maintenant votre navigateur et saisissez l'adresse suivante dessous: 
 
 ``
 http://localhost:9000
