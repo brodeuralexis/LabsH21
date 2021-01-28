@@ -97,11 +97,11 @@ Si vous rencontrez des problèmes, veuillez consulter la [documentation SonarQub
 http://localhost:9000
 ``
 
-Cliquez sur "Log In" (coin supérieur droit). L'identifiant et le mot de passe est "admin" (vous pouvez changer plus tard le mot de passe si vous le souhaitez). Après la connexion, vous pouvez cliquer sur "Create New Project". Pour le Project Key et Display, tapez "JPacman" (si vous changez le nom, vous devrez adapter d'autres commandes plus tard, car ils utilisent la clé pour identifier le projet).
+Cliquez sur ``Log In`` (coin supérieur droit). L'identifiant et le mot de passe est "admin" (vous pouvez changer plus tard le mot de passe si vous le souhaitez). Après la connexion, vous pouvez cliquer sur ``Create New Project``. Pour le Project ``Key`` et ``Display``, tapez "JPacman" (si vous changez le nom, vous devrez adapter d'autres commandes plus tard, car ils utilisent la clé pour identifier le projet).
 
-Maintenant, vous verrez la page "Analyze your Project". Dans la première étape, pour le nom de token, tapez "jpacmantoken". Cliquez sur "generate" puis "continue" (rappelez-vous ce code généré pour l'étape 2).
+Maintenant, vous verrez la page ``Analyze your Project``. Dans la première étape, pour le nom de token, tapez ``jpacmantoken``. Cliquez sur ``generate`` puis ``continue`` (rappelez-vous ce code généré pour l'étape 2).
 
-Si tout allait bien, alors vous devriez voir l'étape 2. Sélectionnez "Java" puis "Gradle". Vous pouvez suivre les instructions données mais pour cette session de laboratoire, vous pouvez simplement continuer à suivre ici. La première chose à faire est donc de mettre à jour votre fichier Gradle de construction (si vous avez récupéré la dernière version du référentiel, ce n'est pas nécessaire). Ouvrez votre IntelliJ avec le code source de JPacman, et dans le dossier racine du projet, vous trouverez le fichier "build.gradle". Assurez vous d'avoir la bonne version: ouvrez le fichier et ajoutez cette ligne après la ligne 7 (à l'intérieur de l'élément "plugins"):
+Si tout allait bien, alors vous devriez voir l'étape 2. Sélectionnez ``Java`` puis ``Gradle``. Vous pouvez suivre les instructions données mais pour cette session de laboratoire, vous pouvez simplement continuer à suivre ici. La première chose à faire est donc de mettre à jour votre fichier Gradle de construction (si vous avez récupéré la dernière version du référentiel, ce n'est pas nécessaire). Ouvrez votre IntelliJ avec le code source de JPacman, et dans le dossier racine du projet, vous trouverez le fichier ``build.gradle``. Assurez vous d'avoir la bonne version: ouvrez le fichier et ajoutez cette ligne après la ligne 7 (à l'intérieur de l'élément ``plugins``):
 
 ``
 id "org.sonarqube" version "3.0"
@@ -138,7 +138,7 @@ Questions:
 
 3. Parmis CodeScene et SonarQube, lequel fournit le meilleur raisonnement / explication sur les cibles de refactoring possibles?
 
-4. Existe-t-il des artefacts communs trouvés dans les Code Smells dans SonarQube et Refactoring dans les cibles de refactoring de CodeScene?
+4. Existe-t-il des artefacts communs entre SonarQube (``Code Smells``) et CodeScene (``Refactoring targets``)?
 
 <a name="strategique"></a>
 ### Partie 3 : Refactoring stratégique avec JPacman
