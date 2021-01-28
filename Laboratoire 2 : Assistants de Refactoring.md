@@ -1,6 +1,6 @@
 ## Laboratoire 2 : Assistants de Refactoring
 ### LOG530 – Réingénierie du Logiciel
-#### Date de remise : 11 février 2020
+#### Date de remise : 11 février 2021
 
 ## 1. Objectifs
 Le travail à réaliser dans ce laboratoire vise à explorer :
