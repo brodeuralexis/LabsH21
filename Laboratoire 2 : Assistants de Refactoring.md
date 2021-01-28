@@ -122,7 +122,7 @@ Si vous rencontrez des problèmes avec la commande ci-dessus, essayez plutôt ce
   -Dsonar.host.url=http://localhost:9000 -Dsonar.login=admin -Dsonar.password=admin
 ``
 
-**NB.** Assurez-vous d'avoir la bonne version de java dans ``sourceCompatibility`` et ``targetCompatibility`` dans le fichier "gradle.properties" du projet JPacman.
+**NB.** Assurez-vous d'avoir la bonne version de java dans ``sourceCompatibility`` et ``targetCompatibility`` dans le fichier ``gradle.properties`` du projet JPacman.
 
 Si tout va bien, la page sur SonarQube devrait être mise à jour dans un certain temps avec les informations du code source de JPacman. Voici une capture d'écran de SonarQube une fois l'analyse terminée sur JPacman.
 
