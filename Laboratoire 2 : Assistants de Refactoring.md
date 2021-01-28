@@ -74,7 +74,7 @@ Questions:
 Pour la deuxième partie, nous allons utiliser un outil plus complexe et dédié pour trouver des cibles de refactoring. 
 Téléchargez [SonarQube](https://www.sonarqube.org/) (si vous ne l'avez pas déjà fait) et décompressez-le sur votre ordinateur.
 
-**NB.** La version actuelle de *sonarqube-8.6.0* est compatible ***uniquement*** avec [Oracle JRE 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html) ou OpenJDK 11). Assurez-vous d'avoir la bonne version version de java 11 dans le fichier de configuration "wrapper.conf" sous le dossier "conf" de votre dossier SonarQube (par exemple, si votre version java est jdk-11.0.9, donc vous devez avoir ``wrapper.java.command=C:\Program Files\Java\jdk-11.0.9\bin\java``).
+**NB.** La version actuelle de *sonarqube-8.6.0* est compatible ***uniquement*** avec [Oracle JRE 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html) ou OpenJDK 11. Assurez-vous d'avoir la bonne version version de java 11 dans le fichier de configuration "wrapper.conf" sous le dossier "conf" de votre dossier SonarQube (par exemple, si votre version java est jdk-11.0.9, donc vous devez avoir ``wrapper.java.command=C:\Program Files\Java\jdk-11.0.9\bin\java``).
 
 Nous devrons utiliser la ligne de commande pour démarrer l'outil SonarQube. Ouvrez un terminal (invite de commande sous Windows) et assurez-vous que vous vous trouvez actuellement dans le dossier SonarQube. Ensuite, vous devriez aller dans le dossier bin comme par exemple: 
 ``
