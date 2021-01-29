@@ -2,7 +2,7 @@
 ### LOG530 – Réingénierie du Logiciel
 #### Date de remise : 11 février 2021 à 23h59
 
-## Table des matières
+#### Table des matières
 1. [Objectifs](#objectifs)
 2. [Matériel et outils à utiliser](#materiel)
 3. [Installation et préparation](#installation)
