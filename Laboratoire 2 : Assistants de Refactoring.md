@@ -189,7 +189,7 @@ Vous êtes encouragés à discuter du laboratoire et à poser vos questions en u
 
 <a name="remise"></a>
 ## 7. Remise
-Le travail doit être remis électroniquement sur Moodle au plus tard le **11 février à 23h59**. Vous devrez remettre une archive zip ou tar.gz contenant tous les fichiers, ainsi qu’un fichier texte indiquant le nom de tous les membres de l’équipe ayant contribué à la réalisation du travail. 
+Le travail doit être remis électroniquement sur Moodle au plus tard le **11 février à 23h59**. Vous devrez remettre une archive ``zip`` ou ``tar.gz`` contenant tous les fichiers, ainsi qu’un fichier texte indiquant le nom de tous les membres de l’équipe ayant contribué à la réalisation du travail. 
 Une seule remise électronique est nécessaire par équipe. Remettez aussi individuellement le tableau de contribution tel vu dans le laboratoire précédent.
 Pour faciliter la correction, vous devez nommer vos fichiers de la façon suivante :
 
