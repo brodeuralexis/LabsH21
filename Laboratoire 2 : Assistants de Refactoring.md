@@ -2,6 +2,19 @@
 ### LOG530 – Réingénierie du Logiciel
 #### Date de remise : 11 février 2021 à 23h59
 
+## Table des matières
+1. [Objectifs](#objectifs)
+2. [Matériel et outils à utiliser](#materiel)
+3. [Installation et préparation](#installation)
+4. [Travail à réaliser](#travail)
+	- [Partie 1 : JPacman avec CodeSence](#partie1)
+	- [Partie 2 : JPacman avec SonarQube](#partie2)
+	- [Partie 3 : Refactoring stratégique avec JPacman](#strategique)
+	- [Partie 4 (optionnelle) : Refactoring stratégique de JPacman](#application)
+5. [Conditions de réalisation](#conditions)
+6. [Aide et discussions](#discussion)
+7. [Remise](#remise)
+
 <a name="objectifs"></a>
 ## 1. Objectifs
 Le travail à réaliser dans ce laboratoire vise à explorer :
@@ -68,7 +81,7 @@ Questions:
 2. CodeScene vous a-t-il donné des recommandations ou des indices sur la façon de refactoriser les cibles proposées? Comment serait-il possible de procéder avec le refactoring?
 
 
-
+<a name="partie2"></a>
 ### Partie 2 : JPacman avec SonarQube
 
 Pour la deuxième partie, nous allons utiliser un outil plus complexe et dédié pour trouver des cibles de refactoring. 
