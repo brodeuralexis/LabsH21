@@ -177,7 +177,7 @@ Questions:
 <a name="application"></a>
 ### Partie 4 (optionnelle) : Refactoring stratégique de JPacman
 
-Pour cette partie optionnelle, vous appliquez les refactorings planifiés (dans la Partie 3) sur le code source. N'oubliez pas de vous assurer que vos refactorings ne brisent pas le code.
+Pour cette partie optionnelle, vous appliquez les refactorings planifiés (dans [la Partie 3](#strategique)) sur le code source. N'oubliez pas de vous assurer que vos refactorings ne brisent pas le code.
 
 <a name="conditions"></a>
 ## 5. Conditions de réalisation
