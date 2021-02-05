@@ -123,7 +123,7 @@ id "org.sonarqube" version "3.0"
 Vous pouvez maintenant utiliser le terminal à l'intérieur d'IntelliJ pour la commande donnée par SonarQube, placez-les tous sur la même ligne (adaptez la commande en conséquence pour Windows):
 
 ``
-gradlew sonarqube -Dsonar.projectKey=JPacman -Dsonar.host.url=http://localhost:9000 -Dsonar.login==<generated token code>
+gradlew sonarqube -Dsonar.projectKey=JPacman -Dsonar.host.url=http://localhost:9000 -Dsonar.login=<generated token code>
 ``
 
 **NB.** Sur Mac, utilisez ``./gradlew`` au lieu de ``gradlew``.
